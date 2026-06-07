@@ -1,10 +1,15 @@
-# Employee Management System
+# Student Marks Analyzer
+Overview
 
-Java console-based Employee Management System using OOP and ArrayList.
+A simple Java project that demonstrates the use of ArrayList and basic programming concepts such as loops, conditions, counting, and calculations.
 
-Features:
-- Add Employee
-- Display Employees
-- Search Employee
-- Update Salary
-- Delete Employee
+Features
+Store student marks using ArrayList
+Display all marks
+Find the highest mark
+Find the lowest mark
+Calculate the average mark
+Count the number of students scoring above 80
+Technologies Used
+Java
+ArrayList (Java Collections Framework)
